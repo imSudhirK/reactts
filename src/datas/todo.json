@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Prepare for Frontend SDE1 Interview",
+      "createdAt": "2024-10-06T09:00:00Z",
+      "dueDate": "2024-10-15T09:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 2,
+      "title": "Complete System Design for Loan Analytics",
+      "createdAt": "2024-10-06T10:00:00Z",
+      "dueDate": "2024-10-12T18:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 3,
+      "title": "Buy Groceries",
+      "createdAt": "2024-10-05T12:00:00Z",
+      "dueDate": "2024-10-07T12:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 4,
+      "title": "Team Meeting Preparation",
+      "createdAt": "2024-10-04T15:00:00Z",
+      "dueDate": "2024-10-09T15:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 5,
+      "title": "Refactor Codebase",
+      "createdAt": "2024-10-03T11:00:00Z",
+      "dueDate": "2024-10-14T17:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 6,
+      "title": "Complete Interview Assignment",
+      "createdAt": "2024-10-05T14:00:00Z",
+      "dueDate": "2024-10-10T14:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 7,
+      "title": "Exercise Routine",
+      "createdAt": "2024-10-06T08:00:00Z",
+      "dueDate": "2024-10-06T08:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": 8,
+      "title": "Research JavaScript Frameworks",
+      "createdAt": "2024-10-02T10:00:00Z",
+      "dueDate": "2024-10-08T17:00:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 9,
+      "title": "Client Presentation",
+      "createdAt": "2024-10-01T09:30:00Z",
+      "dueDate": "2024-10-07T10:30:00Z",
+      "status": "incomplete"
+    },
+    {
+      "id": 10,
+      "title": "Read Design Patterns Book",
+      "createdAt": "2024-10-03T13:00:00Z",
+      "dueDate": "2024-10-20T13:00:00Z",
+      "status": "incomplete"
+    }
+  ]
+  

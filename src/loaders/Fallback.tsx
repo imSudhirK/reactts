@@ -1,5 +1,5 @@
 import Loading from "./loading";
-import { FallbackLoaderWrapper } from "../styledComponent/style-one";
+import { FallbackLoaderWrapper } from "../styles/style-one";
 
 const FallBack = () => {
     return (

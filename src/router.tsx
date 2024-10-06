@@ -1,7 +1,7 @@
-import React, { Suspense } from "react";
+import { Suspense } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import FallBack from "./loaders/Fallback";
-import AppLayout from "./layouts/AppLayout";
+import FallBack from "./loaders/fallback";
+import AppLayout from "./layouts/app-layout";
 
 const AppRouter = () => {
     return (

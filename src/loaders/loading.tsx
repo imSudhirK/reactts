@@ -1,11 +1,11 @@
-import { StyledLoaderWrapper } from "../styledComponent/style-one";
+import { StyledLoaderWrapper } from "../styles/style-one";
 
 function Loading() {
     return (
         <StyledLoaderWrapper>
-            <div id="credflow-loader">
+            <div id="loader">
                 <div></div>
-                <div className="loader-tag-line">Making SMEs Cash Rich.</div>
+                <div className="loader-tag-line">Loading...</div>
             </div>
         </StyledLoaderWrapper>
     );

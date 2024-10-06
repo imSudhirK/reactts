@@ -1,18 +1,17 @@
 import { Layout } from "antd";
 import React, { useEffect } from "react";
 import { useLocation } from "react-router-dom";
-import MainRouter from "../routers/MainRouter";
+import MainRouter from "../routers/main-router";
 
 const AppLayout = () => {
     const { pathname } = useLocation();
 
     useEffect(() => {
-        // Scroll to the top of the page whenever the route changes
         setTimeout(() => {
             window.scroll({
                 top: 0,
                 left: 0,
-                behavior: "auto" // Use 'auto' for instant scrolling
+                behavior: "auto"
             });
         }, 0);
     }, [pathname]);

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "createdAt": "2024-10-05T10:00:00Z",
+        "title": "Meeting Notes",
+        "description": "Discussed project milestones and deadlines for Q4."
+    },
+    {
+        "id": 2,
+        "createdAt": "2024-10-04T14:30:00Z",
+        "title": "Shopping List",
+        "description": "Milk, Eggs, Bread, Butter, and Cheese."
+    },
+    {
+        "id": 3,
+        "createdAt": "2024-10-03T08:15:00Z",
+        "title": "Workout Plan",
+        "description": "30 minutes of cardio and strength training for legs."
+    },
+    {
+        "id": 4,
+        "createdAt": "2024-10-02T19:45:00Z",
+        "title": "Recipe: Pancakes",
+        "description": "Ingredients: flour, eggs, milk, sugar, and butter. Instructions: Mix and cook on medium heat."
+    },
+    {
+        "id": 5,
+        "createdAt": "2024-10-01T11:00:00Z",
+        "title": "Books to Read",
+        "description": "The Great Gatsby, 1984, and To Kill a Mockingbird."
+    },
+    {
+        "id": 6,
+        "createdAt": "2024-09-30T09:20:00Z",
+        "title": "Learning JavaScript",
+        "description": "Completed modules on closures, async/await, and ES6 features."
+    },
+    {
+        "id": 7,
+        "createdAt": "2024-09-29T17:40:00Z",
+        "title": "Vacation Ideas",
+        "description": "Potential destinations: Bali, Iceland, Japan."
+    },
+    {
+        "id": 8,
+        "createdAt": "2024-09-28T13:10:00Z",
+        "title": "Client Feedback",
+        "description": "Positive feedback on UI design, requests more responsive features."
+    },
+    {
+        "id": 9,
+        "createdAt": "2024-09-27T21:05:00Z",
+        "title": "Grocery Budget",
+        "description": "Allocate $200 for weekly groceries."
+    },
+    {
+        "id": 10,
+        "createdAt": "2024-09-26T07:45:00Z",
+        "title": "Daily Affirmations",
+        "description": "I am capable, resilient, and open to new opportunities."
+    }
+]
